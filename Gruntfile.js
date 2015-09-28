@@ -46,8 +46,8 @@ module.exports = function(grunt) {
 			options: {
 				livereload: true
 			},
-			files: ['index.html', 'Gruntfile.js', 'css/*.css'],
-			tasks: ['concat']
+			files: ['index.html', 'Gruntfile.js', 'css/*.css']
+			// tasks: ['concat']
 		}
 	});
 
