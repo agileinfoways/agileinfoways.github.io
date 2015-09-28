@@ -1,0 +1,32 @@
+{
+  "name": "agileinfoways.github.io",
+  "version": "0.0.0",
+  "homepage": "http://agileinfoways.github.io",
+  "authors": [
+    "vimal.shah@agileinfoways.com"
+  ],
+  "description": "agileinfoways git hub portfolio",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "php",
+    "android",
+    "iphone",
+    "nodejs",
+    "angular",
+    "python"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "~0.3.0",
+    "bootstrap": "~3.3.5"
+  }
+}
